@@ -1,0 +1,1 @@
+This file contains some skills for using git to connect to github and some common problems.
